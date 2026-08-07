@@ -59,17 +59,19 @@ learning and improving my development skills.
 <a href="https://www.linkedin.com/in/fadia-azra-kadarisman/">
   <img
     src="https://cdn.simpleicons.org/linkedin/C49A6C"
-    width="32"
+    width="28"
     alt="LinkedIn"
   />
+  &nbsp; LinkedIn
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/abcdfadia_?igsh=MXc1YXFmaWYya3Y1Mw==">
-  <img
+   <img
     src="https://cdn.simpleicons.org/instagram/C49A6C"
-    width="32"
+    width="28"
     alt="Instagram"
   />
+  &nbsp; Instagram
 </a>
 
 </p>
