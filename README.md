@@ -57,7 +57,7 @@ learning and improving my development skills.
 <p align="left">
 
 <a href="https://www.linkedin.com/in/fadia-azra-kadarisman/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C49A6C&labelColor=0D1117" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=C49A6C" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.instagram.com/abcdfadia_?igsh=MXc1YXFmaWYya3Y1Mw==">
