@@ -57,21 +57,11 @@ learning and improving my development skills.
 <p align="left">
 
 <a href="https://www.linkedin.com/in/fadia-azra-kadarisman/">
-  <img
-    src="https://cdn.simpleicons.org/linkedin/C49A6C"
-    width="28"
-    alt="LinkedIn"
-  />
-  &nbsp; LinkedIn
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C49A6C&labelColor=0D1117" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.instagram.com/abcdfadia_?igsh=MXc1YXFmaWYya3Y1Mw==">
-   <img
-    src="https://cdn.simpleicons.org/instagram/C49A6C"
-    width="28"
-    alt="Instagram"
-  />
-  &nbsp; Instagram
+   <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=C49A6C&labelColor=0D1117" alt="Instagram"/>
 </a>
 
 </p>
