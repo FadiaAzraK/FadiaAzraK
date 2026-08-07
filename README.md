@@ -54,15 +54,13 @@ learning and improving my development skills.
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/fadia-azra-kadarisman/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=C49A6C" alt="LinkedIn"/>
-</a>
+## 🤝 Connect With Me
 
-<a href="https://www.instagram.com/abcdfadia_?igsh=MXc1YXFmaWYya3Y1Mw==">
-   <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=C49A6C&labelColor=0D1117" alt="Instagram"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C49A6C)](https://www.linkedin.com/in/fadia-azra-kadarisman/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=C49A6C)](https://www.instagram.com/abcdfadia_?igsh=MXc1YXFmaWYya3Y1Mw==)
 
 </p>
 
